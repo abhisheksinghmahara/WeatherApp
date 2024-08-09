@@ -1,1 +1,1 @@
-# Weather forcast initialisation
+# Weather forecast initialisation
